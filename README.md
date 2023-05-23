@@ -1,4 +1,4 @@
-> This repo is no longer mantained nor updated and we are not pretending to do so.
+__⚠️ This repo is no longer mantained nor updated and we are not pretending to do so ⚠️__
 
 # API publica de eventos - dotlabs()
 
